@@ -39,16 +39,6 @@ const Lugares: NextPage = () => {
         </section>
 
         <section className="mb-8">
-          <h2 className="text-3xl font-semibold mb-4">Gamla Stan</h2>
-          <div className="flex justify-center mb-4">
-            <Image src="/gamlastan.webp" alt="Gamla Stan" width={600} height={400} />
-          </div>
-          <p className="text-lg mb-4">
-            Gamla Stan, el casco antiguo de Estocolmo, es uno de los centros medievales más grandes y mejor conservados de Europa. Este es un lugar que no te puedes perder durante tu visita.
-          </p>
-        </section>
-
-        <section className="mb-8">
           <h2 className="text-3xl font-semibold mb-4">Museo Vasa</h2>
           <div className="flex justify-center mb-4">
             <Image src="/museovasa.webp" alt="Museo Vasa" width={600} height={400} />
